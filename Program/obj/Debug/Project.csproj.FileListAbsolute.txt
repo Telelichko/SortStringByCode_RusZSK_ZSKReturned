@@ -1,0 +1,12 @@
+C:\! Трудоустройство\Атомик Софт\Project\Project\bin\Debug\Project.exe.config
+C:\! Трудоустройство\Атомик Софт\Project\Project\bin\Debug\Project.exe
+C:\! Трудоустройство\Атомик Софт\Project\Project\bin\Debug\Project.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\! Трудоустройство\Атомик Софт\Project\Project\obj\Debug\Project.exe
+C:\! Трудоустройство\Атомик Софт\Project\Project\obj\Debug\Project.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Program\bin\Debug\Project.exe.config
+C:\! Трудоустройство\Атомик Софт\Project\Program\obj\Debug\Project.exe
+C:\! Трудоустройство\Атомик Софт\Project\Program\obj\Debug\Project.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Program\bin\Debug\Project.exe
+C:\! Трудоустройство\Атомик Софт\Project\Program\bin\Debug\Project.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Program\obj\Debug\Project.csprojResolveAssemblyReference.cache

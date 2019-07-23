@@ -1,0 +1,7 @@
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\bin\Debug\Project.Tests.dll
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\bin\Debug\Project.Tests.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\bin\Debug\Project.exe
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\bin\Debug\Project.pdb
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\obj\Debug\Project.Tests.csprojResolveAssemblyReference.cache
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\obj\Debug\Project.Tests.dll
+C:\! Трудоустройство\Атомик Софт\Project\Project.Tests\obj\Debug\Project.Tests.pdb
